@@ -1,2 +1,2 @@
-# reposit-rio-do-desafio-da-DIO
+# repositorio-do-desafio-da-DIO
 primeiro repositório
